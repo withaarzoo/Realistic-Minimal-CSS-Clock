@@ -9,7 +9,8 @@ This repository contains HTML and CSS code to create a realistic and minimalisti
 - [HTML Structure](#html-structure)
 - [CSS Styles](#css-styles)
 - [Credits](#credits)
-
+- [Preview](#preview)
+  
 ## Introduction
 
 This HTML and CSS code is designed to create a visually appealing and realistic clock on a web page. It utilizes CSS animations and styles to mimic the appearance of a traditional analog clock.
@@ -63,3 +64,7 @@ Feel free to customize the CSS styles to match your desired clock design and int
 - Created by [AARZOO ISLAM](https://twitter.com/Aarzoo75).
 
 Please ensure that you provide appropriate credit when using this code in your projects.
+
+# Preview
+<img width="944" alt="Screenshot 2023-09-05 174342" src="https://github.com/Aarzoo75/Realistic-Minimal-CSS-Clock/assets/59678435/3b74f482-7acb-447a-86bd-c538868a7b3b">
+
